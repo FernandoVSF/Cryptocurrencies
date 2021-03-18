@@ -20,5 +20,10 @@ To accomplish the goal,  we needed to preprocess the database, performing an ETL
 
    ![3d](/3d.png)
    
-### 3D-Scatter with Clusters
+### Table with Tradable Cryptocurrencies
    
+   ![table](/table.png)
+   
+### HVPlot.scatter Plot Using x="TotalCoinsMined" and y="TotalCoinSupply
+
+   ![hv](/hv.png)
