@@ -14,7 +14,7 @@ Create a report that includes what cryptocurrencies are on the trading market an
 - Software: Python, Jupyter Notebook, Pandas, HVplot, Plotly, SKLearn
 
 ## Results
-To accomplish the goal,  we needed to preprocess the database, performing an ETL to prepare the date to be used in the machine learning models.  We decided for unsupevised machine learning, as there is no known output for what we are looking for.  We used PCA to reduce dimension of the variables to three principal components.  After deciding in how many clusters to be used to group the cryptocurrencies we used a K-Means model to get the clusters.  We produced the following visualizations
+To accomplish the goal,  we needed to preprocess the database, performing an ETL to prepare the data to be used in the machine learning models.  We decided for unsupevised machine learning, as there is no known output for what we are looking for.  We used PCA to reduce dimension of the variables to three principal components.  After deciding in how many clusters to be used to group the cryptocurrencies we used a K-Means model to get the clusters.  We produced the following visualizations
 
 ### 3D-Scatter with Clusters
 
